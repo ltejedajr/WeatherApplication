@@ -1,2 +1,2 @@
 # WeatherApplication
-Personal Project
+Programming Project
